@@ -1,7 +1,11 @@
-https://powcoder.com
-代写代考加微信 powcoder
-Assignment Project Exam Help
-Add WeChat powcoder
+# CIT 593 HW13 dynamic memory答案
+
+# CIT 5930 Final Project期末大作业参考答案
+
+# 不加WeChat，Email联系: helpLin101@outlook.com
+
+# 原创唯一 完全保密 保证质量 性价比高
+
 /************************************************************************/
 /* File Name : lc4_loader.c		 										*/
 /* Purpose   : This file implements the loader (ld) from PennSim		*/
